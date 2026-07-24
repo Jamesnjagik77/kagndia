@@ -23,7 +23,7 @@ header{
     text-align: center;
     padding: 120px 20px;
     background: linear-gradient(rgba(0,0,0,.55), rgba(0,0,0,.55)),
-                url("../images/church.jpg");
+                url("../church.jpg");
     background-size: cover;
     background-position: center;
     color: white;
@@ -289,7 +289,7 @@ nav a:hover {
 }.hero{
     background:
     linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-    url("../images/church.jpg");
+    url("../church.jpg");
 
     background-size:cover;
     background-position:center;
@@ -784,7 +784,7 @@ h1,h2,h3{
 
 .page-banner{
     background:linear-gradient(rgba(11,61,145,.85),rgba(11,61,145,.85)),
-    url("../images/church.jpg");
+    url("../church.jpg");
     background-size:cover;
     background-position:center;
     color:white;
